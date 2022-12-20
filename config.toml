@@ -1,0 +1,4 @@
+baseURL = 'https://jwillett.github.io/hugo-test'
+languageCode = 'en-au'
+title = 'whatever'
+theme = 'ananke'
